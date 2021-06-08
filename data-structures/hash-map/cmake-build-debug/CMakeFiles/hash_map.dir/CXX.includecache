@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/a54ra/Desktop/Coding/CPP/DSA/data-structures/hash-map/hashmap.h
+iostream
+-
+tuple
+-
+
+C:/Users/a54ra/Desktop/Coding/CPP/DSA/data-structures/hash-map/main.cpp
+iostream
+-
+hashmap.h
+C:/Users/a54ra/Desktop/Coding/CPP/DSA/data-structures/hash-map/hashmap.h
+
